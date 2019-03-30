@@ -7,10 +7,6 @@ class App extends Component {
       <div className="App">
         <header className="App-header" />
         <div>
-          {/* test
-          <MapContainer />
-          tesx */}
-
           <GoogleMapsContainer />
         </div>
       </div>
